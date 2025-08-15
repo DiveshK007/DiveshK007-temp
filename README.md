@@ -2,25 +2,19 @@
 
 **Blockchain + AI** • dApps & Data Marketplaces • Hackathon builder
 
-I build usable crypto products—fast. Recently working on data NFTs, Greenfield storage, and wallet-native UX for lending/identity.
-
-## 🚀 What I'm building
-- **Verifield** — BNB-native DeSci marketplace for climate & research datasets (DataNFTs, sponsor-paid Greenfield uploads, AI search).
-- **Goal Garden** — habit/goal tracker with a playful, game-like UX.
-
-## 🧩 Tech
-Solidity • TypeScript • Next.js • Ethers.js • Hardhat/Foundry • Node.js • PostgreSQL • Docker • BNB Chain / Greenfield
+I build usable crypto products—fast. Lately: data NFTs, BNB Greenfield storage, wallet-native UX for lending/identity.
 
 ## 🔎 Selected projects
-| Project | What it is | Stack |
-|---|---|---|
-| Verifield | Marketplace for research datasets (DataNFTs, verifications, BSC/Greenfield) | Solidity, Next.js, Ethers, Hardhat |
-| Goal Garden Adventure | Lightweight goal-tracker + streak engine | TypeScript, Next.js |
-| BitLend (hackathon build) | Wallet-native lending logic with on-chain credit guardrails | Solidity, TypeScript |
+- **[Verifield](https://github.com/DiveshK007/verifield)** — DeSci marketplace for climate & research datasets (DataNFTs, sponsor-paid Greenfield uploads, AI search).
+- **[BitLend](https://github.com/DiveshK007/bitlend)** — Wallet-native lending with on-chain credit guardrails.
+- **[Goal Garden](https://github.com/DiveshK007/goal-garden-adventure)** — Minimal, streak-based habit/goal tracker.
+
+## 🧩 Tech
+Solidity • Hardhat/Foundry • Ethers.js • Next.js • TypeScript • Node.js • PostgreSQL • Docker • BNB Chain / Greenfield
 
 ## 🏅 Highlights
-- Finalist/presenter at multiple Web3 hackathons (add events + year)
-- Built & shipped 3+ dApps with live demos
+- Finalist/presenter at multiple Web3 hackathons (add event names + year)
+- Shipped 3+ dApps with live demos
 - Open-source contributions to tooling and templates
 
 ## 📫 Find me
