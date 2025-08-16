@@ -21,3 +21,12 @@ Solidity • Hardhat/Foundry • Ethers.js • Next.js • TypeScript • Node.j
 [LinkedIn](#) • [Email](#) • [Twitter](#)
 
 
+
+
+## 🏆 Hackathons & Highlights
+
+- 🥇 **Bitcoin++ Global Hackathon — Top Presenter.** Presented **BitLend**, a decentralized crypto lending platform with wallet-native lending logic and on-chain credit control.
+- 🥉 **IIT Madras Smart Hostel for Student Hackathon — Finalist (Top 25).**
+- 🛡️ **ExploiX CTF — Finalist (Top 40).**
+
+*More to be conquered soon…*
